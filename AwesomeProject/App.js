@@ -91,7 +91,7 @@ inputTxt:{
     marginTop:20
 }, 
 setIndex:{ fontSize: 15 ,padding:7, backgroundColor:"lightblue", color:"white"},
-handleEdit:{ fontSize: 20, marginLeft: 10, maxWidth: "80%", width:"80%", alignSelf:"center" }
+handleEdit:{ fontSize: 20, marginLeft: 10, maxWidth: "80%", width:"80%", alignSelf:"center", fontStyle:"italic"}
 
 
 
